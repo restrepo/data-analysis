@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+unicode
+xlrd
+requests
+unidecode
+python-levenshtein
+matplotlib
+ipywidgets
+bash-kernel
