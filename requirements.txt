@@ -1,11 +1,12 @@
 pandas
+openpyxl
+xlrd
 numpy
 scipy
-unicode
-xlrd
+matplotlib
 requests
+unicode
 unidecode
 python-levenshtein
-matplotlib
 ipywidgets
-bash-kernel
+
