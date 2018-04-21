@@ -7,4 +7,6 @@ Basic introduction to the usage of pandas as programable replacement of a graphi
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/restrepo/data-analysis/master)
 
+Start with the [index.ipynb](./index.ipynb) and follow the other from there.
+
 
