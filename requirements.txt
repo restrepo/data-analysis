@@ -9,4 +9,4 @@ unicode
 unidecode
 python-levenshtein
 ipywidgets
-
+tqdm
