@@ -8,6 +8,8 @@ Click on the "launch binder" button below to open those notebooks in an executab
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/restrepo/data-analysis/master)
 
+Shorten URL [http://bit.ly/analisisdedatosudea](http://bit.ly/analisisdedatosudea
+)
 
 
 
